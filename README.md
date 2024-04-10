@@ -1,6 +1,6 @@
-** EnerDAO Project Repository
+# EnerDAO Project Repository
 
-*** Overview
+## Overview
 
 EnerDAO is a decentralized finance platform, dedicated to funding and accelerating the development of renewable energy technologies through community-driven governance and tokenized lending mechanisms. Our approach harnesses the power of decentralized finance to enable rapid, transparent, and inclusive financing for renewable energy projects.
 
