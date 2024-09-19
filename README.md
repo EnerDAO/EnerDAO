@@ -45,7 +45,7 @@ EnerDAO introduces a novel financing structure for renewable power project finan
 
 To become a part of our community or start contributing, here are some ways you can get started:
 - **Contact Us:** Reach out to us through the contact form on our [landing site](https://www.enerdao.org).
-- **Join Our Discord Community:** (https://discord.gg/ywQMA8TV)
+- **Join Our Discord Community:** (https://discord.gg/PQufUyeZZn)
 - **Subscribe to Our Twitter:** https://www.x.com/enerdao
 
 ### Contact
